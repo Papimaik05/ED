@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\G512\Desktop\ED\EJERCICIOS\Junio17\cola.h(90,22): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\G512\Desktop\ED\EJERCICIOS\Junio17\cola.h(70,1): message : al compilar la función del miembro clase plantilla "void Cola<int>::desplaza(unsigned int,unsigned int)"
+C:\Users\G512\Desktop\ED\EJERCICIOS\Junio17\main.cpp(76,17): message : Vea la referencia a la creación de una instancia de la función plantilla "void Cola<int>::desplaza(unsigned int,unsigned int)" que se está compilando
+C:\Users\G512\Desktop\ED\EJERCICIOS\Junio17\main.cpp(51,16): message : Vea la referencia a la creación de una instancia de clase plantilla "Cola<int>" que se está compilando
+C:\Users\G512\Desktop\ED\EJERCICIOS\Junio17\cola.h(110,22): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\G512\Desktop\ED\EJERCICIOS\Junio17\cola.h(117,16): warning C4018: '<': no coinciden signed/unsigned
+  Junio17.vcxproj -> C:\Users\G512\source\repos\ED\Junio17\x64\Debug\Junio17.exe
